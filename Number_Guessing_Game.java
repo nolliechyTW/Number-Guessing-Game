@@ -7,8 +7,7 @@ public class Number_Guessing_Game {
 		//Step 1: create a secret number, s, randomly
 		int s = (int)(Math.random()*100) ;
 		//Step 2: create a boundary for this game
-		int min = 0;
-		int max = 99;
+		int min = 0, max = 99;
 
 
 		//Step 4: add a loop	
